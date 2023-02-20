@@ -11,3 +11,7 @@ Retrieve beers list from the public and open source [punk beer rest apis](https:
 
 ## Hello world beers detail
 Added detail view updated on list item click
+
+Here the result:
+
+![Screenshot](../../screenshots/screenshot.png)
